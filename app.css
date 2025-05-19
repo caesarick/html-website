@@ -3,3 +3,41 @@ h2{
   font-size: 16px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+section{
+  background-color: aquamarine;
+}
+.one{
+  color: yellow;
+  font-size: 16px;
+}
+#one{
+  color: red;
+  font-size: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.two{
+  color: blueviolet;
+  font: size 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.one{
+  color: rgb(85, 255, 0);
+  font-size: 72px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.line{
+  width: 100%;
+  height: 10px;
+  background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
